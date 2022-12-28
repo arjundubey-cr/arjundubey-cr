@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on any interesting ideas. 
 - 💬 Ask me about ReactJS, HTML, CSS, C++, Python(Flask, Django), Flutter.
 
-- 📫 How to reach me: [Twitter](https://twitter.com/arjundubeycr) [LinkedIn](https://www.linkedin.com/in/arjun-dubey-b26543168/)
-
-![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjundubey-cr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundubey-cr&layout=compact)](https://github.com/arjundubey-cr/github-readme-stats)
 <!--
 **arjundubey-cr/arjundubey-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

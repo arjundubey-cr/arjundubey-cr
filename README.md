@@ -1,9 +1,12 @@
-### Hi there 👋, I'm Arjun, a rising junior undergrad with Computer Science and Engineering 
+### Hi there 👋, I'm Arjun.
 ![Profile views](https://gpvc.arturio.dev/arjundubey-cr)
+
 - 🔭 I’m currently working on some interesting projects with JavaScript.
 - 🌱 I’m currently learning Full-Stack Development.
 - 👯 I’m looking to collaborate on any interesting ideas. 
 - 💬 Ask me about ReactJS, HTML, CSS, C++, Python(Flask, Django), Flutter.
+
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjundubey-cr&show_icons=true&theme=radical)
 
 <!--
 **arjundubey-cr/arjundubey-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

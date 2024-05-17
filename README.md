@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Arjun.
-![Visits Badge](https://badges.pufler.dev/visits/arjundubey-cr?style=for-the-badge)
+![Visits Badge](https://badges.pufler.dev/visits/arjundubey-cr/arjundubey-cr?style=for-the-badge)
 
 - 🔭 I’m currently working on some interesting projects with JavaScript.
 - 🌱 I’m currently learning Full-Stack Development.
